@@ -14,3 +14,19 @@ C:\Users\doomd\OneDrive\Рабочий стол\AutoApp\ARMS\ARMSBOLayer\obj\Deb
 C:\Users\doomd\OneDrive\Рабочий стол\AutoApp\ARMS\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.pdb
 C:\Users\doomd\OneDrive\Рабочий стол\AutoApp\ARMS\ARMSBOLayer\obj\Debug\net10.0\ref\ARMSBOLayer.dll
 C:\Users\doomd\OneDrive\Рабочий стол\AutoApp\ARMS\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.sourcelink.json
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\bin\Debug\net10.0\ARMSBOLayer.deps.json
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\bin\Debug\net10.0\ARMSBOLayer.dll
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\bin\Debug\net10.0\ARMSBOLayer.pdb
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\bin\Debug\net10.0\ARMSDALayer.dll
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\bin\Debug\net10.0\ARMSDALayer.pdb
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.csproj.AssemblyReference.cache
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.AssemblyInfoInputs.cache
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.AssemblyInfo.cs
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.csproj.CoreCompileInputs.cache
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.sourcelink.json
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLa.894B0197.Up2Date
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.dll
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\refint\ARMSBOLayer.dll
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ARMSBOLayer.pdb
+C:\Users\doomd\source\repos\EZ_Rental\ARMSBOLayer\obj\Debug\net10.0\ref\ARMSBOLayer.dll

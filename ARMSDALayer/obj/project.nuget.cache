@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IR0q4F0OxlI=",
+  "dgSpecHash": "xUJQmkAiNSA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSDALayer\\ARMSDALayer.csproj",
+  "projectFilePath": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\ARMSDALayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\doomd\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.13\\microsoft.bcl.cryptography.9.0.13.nupkg.sha512",
     "C:\\Users\\doomd\\.nuget\\packages\\microsoft.data.sqlclient\\7.0.1\\microsoft.data.sqlclient.7.0.1.nupkg.sha512",

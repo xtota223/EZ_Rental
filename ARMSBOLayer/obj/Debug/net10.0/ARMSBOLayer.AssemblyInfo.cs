@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ARMSBOLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af52bc91b3339c9b0d2aec1b42072b8547ba57a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff292fe07201565716ac273e50b5996c2e5330a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ARMSBOLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ARMSBOLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

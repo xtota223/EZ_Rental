@@ -1186,11 +1186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSDALayer\\ARMSDALayer.csproj",
+      "projectUniqueName": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\ARMSDALayer.csproj",
       "projectName": "ARMSDALayer",
-      "projectPath": "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSDALayer\\ARMSDALayer.csproj",
+      "projectPath": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\ARMSDALayer.csproj",
       "packagesPath": "C:\\Users\\doomd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSDALayer\\obj\\",
+      "outputPath": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

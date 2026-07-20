@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B160B282-8C7E-2FF4-E132-DF183DC6581A}|ARMSBOLayer\\ARMSBOLayer.csproj|c:\\users\\doomd\\source\\repos\\ez_rental\\armsbolayer\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B160B282-8C7E-2FF4-E132-DF183DC6581A}|ARMSBOLayer\\ARMSBOLayer.csproj|solutionrelative:armsbolayer\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3143D98D-DDC9-498D-B1AB-2589EF587CBD}|ARMSDALayer\\ARMSDALayer.csproj|c:\\users\\doomd\\source\\repos\\ez_rental\\armsdalayer\\dalobjectfactorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3143D98D-DDC9-498D-B1AB-2589EF587CBD}|ARMSDALayer\\ARMSDALayer.csproj|solutionrelative:armsdalayer\\dalobjectfactorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3143D98D-DDC9-498D-B1AB-2589EF587CBD}|ARMSDALayer\\ARMSDALayer.csproj|c:\\users\\doomd\\source\\repos\\ez_rental\\armsdalayer\\creditcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3143D98D-DDC9-498D-B1AB-2589EF587CBD}|ARMSDALayer\\ARMSDALayer.csproj|solutionrelative:armsdalayer\\creditcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3143D98D-DDC9-498D-B1AB-2589EF587CBD}|ARMSDALayer\\ARMSDALayer.csproj|c:\\users\\doomd\\source\\repos\\ez_rental\\armsdalayer\\creditcarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3143D98D-DDC9-498D-B1AB-2589EF587CBD}|ARMSDALayer\\ARMSDALayer.csproj|solutionrelative:armsdalayer\\creditcarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSBOLayer\\CreditCard.cs",
+              "RelativeDocumentMoniker": "ARMSBOLayer\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSBOLayer\\CreditCard.cs*",
+              "RelativeToolTip": "ARMSBOLayer\\CreditCard.cs*",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAkwC4BAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T08:36:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALObjectFactoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\DALObjectFactoryBase.cs",
+              "RelativeDocumentMoniker": "ARMSDALayer\\DALObjectFactoryBase.cs",
+              "ToolTip": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\DALObjectFactoryBase.cs",
+              "RelativeToolTip": "ARMSDALayer\\DALObjectFactoryBase.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T08:36:37.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\CreditCardDTO.cs",
+              "RelativeDocumentMoniker": "ARMSDALayer\\CreditCardDTO.cs",
+              "ToolTip": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\CreditCardDTO.cs",
+              "RelativeToolTip": "ARMSDALayer\\CreditCardDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T08:36:34.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCardDAO.cs",
+              "DocumentMoniker": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\CreditCardDAO.cs",
+              "RelativeDocumentMoniker": "ARMSDALayer\\CreditCardDAO.cs",
+              "ToolTip": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSDALayer\\CreditCardDAO.cs",
+              "RelativeToolTip": "ARMSDALayer\\CreditCardDAO.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T08:36:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

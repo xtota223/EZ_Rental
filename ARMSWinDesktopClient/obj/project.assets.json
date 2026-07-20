@@ -1007,11 +1007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSWinDesktopClient\\ARMSWinDesktopClient.csproj",
+      "projectUniqueName": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSWinDesktopClient\\ARMSWinDesktopClient.csproj",
       "projectName": "ARMSWinDesktopClient",
-      "projectPath": "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSWinDesktopClient\\ARMSWinDesktopClient.csproj",
+      "projectPath": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSWinDesktopClient\\ARMSWinDesktopClient.csproj",
       "packagesPath": "C:\\Users\\doomd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSWinDesktopClient\\obj\\",
+      "outputPath": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSWinDesktopClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1033,8 +1033,8 @@
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
           "projectReferences": {
-            "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSBOLayer\\ARMSBOLayer.csproj": {
-              "projectPath": "C:\\Users\\doomd\\OneDrive\\Рабочий стол\\AutoApp\\ARMS\\ARMSBOLayer\\ARMSBOLayer.csproj"
+            "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSBOLayer\\ARMSBOLayer.csproj": {
+              "projectPath": "C:\\Users\\doomd\\source\\repos\\EZ_Rental\\ARMSBOLayer\\ARMSBOLayer.csproj"
             }
           }
         }
