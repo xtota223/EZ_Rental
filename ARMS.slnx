@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ARMSBOLayer/ARMSBOLayer.csproj" />
+  <Project Path="ARMSDALayer/ARMSDALayer.csproj" Id="3143d98d-ddc9-498d-b1ab-2589ef587cbd" />
+  <Project Path="ARMSWinDesktopClient/ARMSWinDesktopClient.csproj" />
+</Solution>
