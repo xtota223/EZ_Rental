@@ -97,9 +97,9 @@
             searchPromptLabel.Font = new Font("Segoe UI", 9F, FontStyle.Bold | FontStyle.Italic);
             searchPromptLabel.Location = new Point(35, 62);
             searchPromptLabel.Name = "searchPromptLabel";
-            searchPromptLabel.Size = new Size(231, 15);
+            searchPromptLabel.Size = new Size(230, 15);
             searchPromptLabel.TabIndex = 1;
-            searchPromptLabel.Text = "Enter Credit Card Number & Click Search:";
+            searchPromptLabel.Text = "Enter Credit Card Number & Click Delete:";
             // 
             // searchTargetCreditCardNumberLabel
             // 
@@ -514,7 +514,7 @@
             // 
             searchExitButton.BackColor = Color.PeachPuff;
             searchExitButton.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            searchExitButton.Location = new Point(397, 12);
+            searchExitButton.Location = new Point(400, 12);
             searchExitButton.Name = "searchExitButton";
             searchExitButton.Size = new Size(75, 23);
             searchExitButton.TabIndex = 21;
@@ -526,7 +526,7 @@
             // 
             searchClearButton.BackColor = Color.PeachPuff;
             searchClearButton.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            searchClearButton.Location = new Point(30, 12);
+            searchClearButton.Location = new Point(11, 12);
             searchClearButton.Name = "searchClearButton";
             searchClearButton.Size = new Size(75, 23);
             searchClearButton.TabIndex = 20;
