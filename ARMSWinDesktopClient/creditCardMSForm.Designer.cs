@@ -43,7 +43,7 @@
             titleLabel.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             titleLabel.Location = new Point(65, 15);
             titleLabel.Name = "titleLabel";
-            titleLabel.Size = new Size(230, 15);
+            titleLabel.Size = new Size(226, 15);
             titleLabel.TabIndex = 0;
             titleLabel.Text = "Credit Card Management System portal";
             // 
@@ -83,6 +83,7 @@
             deleteButton.TabIndex = 4;
             deleteButton.Text = "Credit Card Delete";
             deleteButton.UseVisualStyleBackColor = true;
+            deleteButton.Click += deleteButton_Click;
             // 
             // listButton
             // 
@@ -122,7 +123,6 @@
             Text = "Credit Card Management System Portal";
             ResumeLayout(false);
             PerformLayout();
-            this.MaximizeBox = false;
         }
 
         #endregion

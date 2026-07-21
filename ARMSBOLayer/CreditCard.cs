@@ -300,6 +300,7 @@ namespace ARMSBOLayer
 
                 if (objDTO != null)
                 {
+                    this.CreditCardNumber = objDTO.CreditCardNumber;
                     this.CreditCardOwnerName = objDTO.CreditCardOwnerName;
                     this.CreditCardProcessingMerchantServiceCompanyCode =
                         objDTO.CreditCardProcessingMerchantServiceCompanyCode;

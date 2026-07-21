@@ -37,6 +37,6 @@ namespace ARMSDALayer
 
         //====================== END of ICreditCardDAO INTERFACE Declarations =======================================================
 
-
+       bool deleteRecordByID(string key);
     }
 }
