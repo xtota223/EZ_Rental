@@ -176,8 +176,6 @@
             searchResultsSectionPanel.Controls.Add(searchResultsCardNumberTextBox);
             searchResultsSectionPanel.Controls.Add(searchResultsCardNumberLabel);
             searchResultsSectionPanel.Controls.Add(searchResultsSectionTitleLabel);
-            FormBorderStyle = FormBorderStyle.FixedSingle;
-            MaximizeBox = false;
             searchResultsSectionPanel.Location = new Point(12, 126);
             searchResultsSectionPanel.Name = "searchResultsSectionPanel";
             searchResultsSectionPanel.Size = new Size(296, 464);
@@ -188,7 +186,8 @@
             // 
             searchResultsCardActivationStatusTextBox.Location = new Point(174, 425);
             searchResultsCardActivationStatusTextBox.Name = "searchResultsCardActivationStatusTextBox";
-            searchResultsCardActivationStatusTextBox.Size = new Size(100, 23);
+            searchResultsCardActivationStatusTextBox.ReadOnly = true;
+            searchResultsCardActivationStatusTextBox.Size = new Size(117, 23);
             searchResultsCardActivationStatusTextBox.TabIndex = 18;
             // 
             // searchResultsCardActivationStatusLabel
@@ -204,7 +203,8 @@
             // 
             searchResultsCardAvailableCreditTextBox.Location = new Point(174, 400);
             searchResultsCardAvailableCreditTextBox.Name = "searchResultsCardAvailableCreditTextBox";
-            searchResultsCardAvailableCreditTextBox.Size = new Size(100, 23);
+            searchResultsCardAvailableCreditTextBox.ReadOnly = true;
+            searchResultsCardAvailableCreditTextBox.Size = new Size(117, 23);
             searchResultsCardAvailableCreditTextBox.TabIndex = 17;
             searchResultsCardAvailableCreditTextBox.TextChanged += searchResultsCardAvailableCreditTextBox_TextChanged;
             // 
@@ -221,7 +221,8 @@
             // 
             searchResultsCardLimitTextBox.Location = new Point(174, 375);
             searchResultsCardLimitTextBox.Name = "searchResultsCardLimitTextBox";
-            searchResultsCardLimitTextBox.Size = new Size(100, 23);
+            searchResultsCardLimitTextBox.ReadOnly = true;
+            searchResultsCardLimitTextBox.Size = new Size(117, 23);
             searchResultsCardLimitTextBox.TabIndex = 16;
             // 
             // searchResultsCardLimitLabel
@@ -237,7 +238,8 @@
             // 
             searchResultsCountryTextBox.Location = new Point(174, 350);
             searchResultsCountryTextBox.Name = "searchResultsCountryTextBox";
-            searchResultsCountryTextBox.Size = new Size(100, 23);
+            searchResultsCountryTextBox.ReadOnly = true;
+            searchResultsCountryTextBox.Size = new Size(117, 23);
             searchResultsCountryTextBox.TabIndex = 15;
             // 
             // searchResultsCountryLabel
@@ -253,7 +255,8 @@
             // 
             searchResultsZipCodeTextBox.Location = new Point(174, 325);
             searchResultsZipCodeTextBox.Name = "searchResultsZipCodeTextBox";
-            searchResultsZipCodeTextBox.Size = new Size(100, 23);
+            searchResultsZipCodeTextBox.ReadOnly = true;
+            searchResultsZipCodeTextBox.Size = new Size(117, 23);
             searchResultsZipCodeTextBox.TabIndex = 14;
             // 
             // searchResultsZipCodeLabel
@@ -269,7 +272,8 @@
             // 
             searchResultsStateTextBox.Location = new Point(174, 300);
             searchResultsStateTextBox.Name = "searchResultsStateTextBox";
-            searchResultsStateTextBox.Size = new Size(100, 23);
+            searchResultsStateTextBox.ReadOnly = true;
+            searchResultsStateTextBox.Size = new Size(117, 23);
             searchResultsStateTextBox.TabIndex = 13;
             // 
             // searchResultsStateLabel
@@ -285,7 +289,8 @@
             // 
             searchResultsCityTextBox.Location = new Point(174, 275);
             searchResultsCityTextBox.Name = "searchResultsCityTextBox";
-            searchResultsCityTextBox.Size = new Size(100, 23);
+            searchResultsCityTextBox.ReadOnly = true;
+            searchResultsCityTextBox.Size = new Size(117, 23);
             searchResultsCityTextBox.TabIndex = 12;
             // 
             // searchResultsCityLabel
@@ -302,7 +307,8 @@
             // 
             searchResultsAddress2TextBox.Location = new Point(174, 250);
             searchResultsAddress2TextBox.Name = "searchResultsAddress2TextBox";
-            searchResultsAddress2TextBox.Size = new Size(100, 23);
+            searchResultsAddress2TextBox.ReadOnly = true;
+            searchResultsAddress2TextBox.Size = new Size(117, 23);
             searchResultsAddress2TextBox.TabIndex = 11;
             // 
             // searchResultsAddress2Label
@@ -318,7 +324,8 @@
             // 
             searchResultsAddress1TextBox.Location = new Point(174, 225);
             searchResultsAddress1TextBox.Name = "searchResultsAddress1TextBox";
-            searchResultsAddress1TextBox.Size = new Size(100, 23);
+            searchResultsAddress1TextBox.ReadOnly = true;
+            searchResultsAddress1TextBox.Size = new Size(117, 23);
             searchResultsAddress1TextBox.TabIndex = 10;
             // 
             // searchResultsAddres1Label
@@ -334,7 +341,8 @@
             // 
             searchResultsExpirationDateTextBox.Location = new Point(174, 200);
             searchResultsExpirationDateTextBox.Name = "searchResultsExpirationDateTextBox";
-            searchResultsExpirationDateTextBox.Size = new Size(100, 23);
+            searchResultsExpirationDateTextBox.ReadOnly = true;
+            searchResultsExpirationDateTextBox.Size = new Size(117, 23);
             searchResultsExpirationDateTextBox.TabIndex = 9;
             // 
             // searchResultsExpirationDateLabel
@@ -350,7 +358,8 @@
             // 
             searchResultsCardMerchantBankTextBox.Location = new Point(174, 175);
             searchResultsCardMerchantBankTextBox.Name = "searchResultsCardMerchantBankTextBox";
-            searchResultsCardMerchantBankTextBox.Size = new Size(100, 23);
+            searchResultsCardMerchantBankTextBox.ReadOnly = true;
+            searchResultsCardMerchantBankTextBox.Size = new Size(117, 23);
             searchResultsCardMerchantBankTextBox.TabIndex = 8;
             // 
             // searchResultsCardMerchantBankLabel
@@ -366,7 +375,8 @@
             // 
             searchResultsCardIssuingBankTextBox.Location = new Point(174, 150);
             searchResultsCardIssuingBankTextBox.Name = "searchResultsCardIssuingBankTextBox";
-            searchResultsCardIssuingBankTextBox.Size = new Size(100, 23);
+            searchResultsCardIssuingBankTextBox.ReadOnly = true;
+            searchResultsCardIssuingBankTextBox.Size = new Size(117, 23);
             searchResultsCardIssuingBankTextBox.TabIndex = 7;
             // 
             // searchResultsCardIssuingBankLabel
@@ -382,7 +392,8 @@
             // 
             searchResultsCardNetworkCompanyTextBox.Location = new Point(174, 125);
             searchResultsCardNetworkCompanyTextBox.Name = "searchResultsCardNetworkCompanyTextBox";
-            searchResultsCardNetworkCompanyTextBox.Size = new Size(100, 23);
+            searchResultsCardNetworkCompanyTextBox.ReadOnly = true;
+            searchResultsCardNetworkCompanyTextBox.Size = new Size(117, 23);
             searchResultsCardNetworkCompanyTextBox.TabIndex = 6;
             // 
             // searchResultsCardNetworkCompanyLabel
@@ -398,7 +409,8 @@
             // 
             searchResultsCardMerchantCompanyTextBox.Location = new Point(174, 100);
             searchResultsCardMerchantCompanyTextBox.Name = "searchResultsCardMerchantCompanyTextBox";
-            searchResultsCardMerchantCompanyTextBox.Size = new Size(100, 23);
+            searchResultsCardMerchantCompanyTextBox.ReadOnly = true;
+            searchResultsCardMerchantCompanyTextBox.Size = new Size(117, 23);
             searchResultsCardMerchantCompanyTextBox.TabIndex = 5;
             searchResultsCardMerchantCompanyTextBox.TextChanged += searchResultsCardMerchantCompayTextBox_TextChanged;
             // 
@@ -415,7 +427,8 @@
             // 
             searchResultsOwnerNameTextBox.Location = new Point(174, 75);
             searchResultsOwnerNameTextBox.Name = "searchResultsOwnerNameTextBox";
-            searchResultsOwnerNameTextBox.Size = new Size(100, 23);
+            searchResultsOwnerNameTextBox.ReadOnly = true;
+            searchResultsOwnerNameTextBox.Size = new Size(117, 23);
             searchResultsOwnerNameTextBox.TabIndex = 4;
             // 
             // searchResultsOwnerNameLabel
@@ -431,7 +444,8 @@
             // 
             searchResultsCardNumberTextBox.Location = new Point(174, 50);
             searchResultsCardNumberTextBox.Name = "searchResultsCardNumberTextBox";
-            searchResultsCardNumberTextBox.Size = new Size(100, 23);
+            searchResultsCardNumberTextBox.ReadOnly = true;
+            searchResultsCardNumberTextBox.Size = new Size(117, 23);
             searchResultsCardNumberTextBox.TabIndex = 3;
             searchResultsCardNumberTextBox.TextChanged += searchResultsCardNumberTextBox_TextChanged;
             // 
@@ -533,6 +547,8 @@
             Controls.Add(searchPromptLabel);
             Controls.Add(titleLabel);
             Controls.Add(searchSectionPanel);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
             Name = "searchForm";
             Text = "Credit Card Search";
             searchSectionPanel.ResumeLayout(false);

@@ -27,5 +27,13 @@ namespace ARMSWinDesktopClient
         {
             this.Close();
         }
+
+        private void deleteButton_Click(object sender, EventArgs e)
+        {
+            deleteForm objDelete = new deleteForm();
+            this.Hide();
+            objDelete.ShowDialog();
+            this.Show();
+        }
     }
 }

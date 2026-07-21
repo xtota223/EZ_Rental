@@ -124,5 +124,31 @@ namespace ARMSDALayer
         }//End of GetRecordByID
 
         //====================== END of CREDITCARDDAO Class DATA ACCESS METHOD GetRecordByID(key)S =======================================================
+        public bool deleteRecordByID(string key)
+        {
+            SqlConnection objConn = new SqlConnection(SQLServerDAOFactory.ConnectionString());
+            try
+            {
+                objConn.Open();
+                string strSQL = "DELETE FROM CreditCard WHERE CreditCardNumber = @CreditCardNumber;";
+                SqlCommand objCmd = new SqlCommand(strSQL, objConn);
+                objCmd.CommandType = CommandType.Text;
+                objCmd.Parameters.Add("@CreditCardNumber", SqlDbType.VarChar).Value = key;
+                int rowsAffected = objCmd.ExecuteNonQuery();
+                objCmd.Dispose();
+                objCmd = null;
+                return rowsAffected > 0;
+            }
+            catch (Exception objE)
+            {
+                throw new Exception("Unexpected Error in CreditCardDAO deleteRecordByID(key) Method: {0}" + objE.Message);
+            }
+            finally
+            {
+                objConn.Close();
+                objConn.Dispose();
+                objConn = null;
+            }
+        }
     }
 }
